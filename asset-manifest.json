@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://sudarshankakde.github.io/Shree-Computer/static/css/main.84e20158.css",
-    "main.js": "https://sudarshankakde.github.io/Shree-Computer/static/js/main.5f5dea5a.js",
+    "main.js": "https://sudarshankakde.github.io/Shree-Computer/static/js/main.f9afaa5f.js",
     "static/js/787.f587e8d5.chunk.js": "https://sudarshankakde.github.io/Shree-Computer/static/js/787.f587e8d5.chunk.js",
     "static/media/introVideo.mp4": "https://sudarshankakde.github.io/Shree-Computer/static/media/introVideo.5d5614a44754aa8e382e.mp4",
     "static/media/slide5.jpg": "https://sudarshankakde.github.io/Shree-Computer/static/media/slide5.7f171ed614ccbe866a5d.jpg",
@@ -13,11 +13,11 @@
     "static/media/era.png": "https://sudarshankakde.github.io/Shree-Computer/static/media/era.f4ab53de6dcd0ee3b932.png",
     "index.html": "https://sudarshankakde.github.io/Shree-Computer/index.html",
     "main.84e20158.css.map": "https://sudarshankakde.github.io/Shree-Computer/static/css/main.84e20158.css.map",
-    "main.5f5dea5a.js.map": "https://sudarshankakde.github.io/Shree-Computer/static/js/main.5f5dea5a.js.map",
+    "main.f9afaa5f.js.map": "https://sudarshankakde.github.io/Shree-Computer/static/js/main.f9afaa5f.js.map",
     "787.f587e8d5.chunk.js.map": "https://sudarshankakde.github.io/Shree-Computer/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84e20158.css",
-    "static/js/main.5f5dea5a.js"
+    "static/js/main.f9afaa5f.js"
   ]
 }

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shree-Computer/static/css/main.84e20158.css",
-    "main.js": "/Shree-Computer/static/js/main.ee8c61e8.js",
-    "static/js/787.f587e8d5.chunk.js": "/Shree-Computer/static/js/787.f587e8d5.chunk.js",
-    "static/media/introVideo.mp4": "/Shree-Computer/static/media/introVideo.5d5614a44754aa8e382e.mp4",
-    "static/media/slide5.jpg": "/Shree-Computer/static/media/slide5.7f171ed614ccbe866a5d.jpg",
-    "static/media/slide4.jpg": "/Shree-Computer/static/media/slide4.e0702c43c26219c36ad0.jpg",
-    "static/media/slide2.jpg": "/Shree-Computer/static/media/slide2.21bb0af54436c85f7c15.jpg",
-    "static/media/slide1.jpg": "/Shree-Computer/static/media/slide1.dcbc610345e8a87f2a0d.jpg",
-    "static/media/slider3.jpg": "/Shree-Computer/static/media/slider3.50fcf84bb968b28206f4.jpg",
-    "static/media/404.svg": "/Shree-Computer/static/media/404.04424b10ac8efc11cbd136341adc0bc3.svg",
-    "static/media/era.png": "/Shree-Computer/static/media/era.f4ab53de6dcd0ee3b932.png",
-    "index.html": "/Shree-Computer/index.html",
-    "main.84e20158.css.map": "/Shree-Computer/static/css/main.84e20158.css.map",
-    "main.ee8c61e8.js.map": "/Shree-Computer/static/js/main.ee8c61e8.js.map",
-    "787.f587e8d5.chunk.js.map": "/Shree-Computer/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "./static/css/main.84e20158.css",
+    "main.js": "./static/js/main.fe1b1719.js",
+    "static/js/787.f587e8d5.chunk.js": "./static/js/787.f587e8d5.chunk.js",
+    "static/media/introVideo.mp4": "./static/media/introVideo.5d5614a44754aa8e382e.mp4",
+    "static/media/slide5.jpg": "./static/media/slide5.7f171ed614ccbe866a5d.jpg",
+    "static/media/slide4.jpg": "./static/media/slide4.e0702c43c26219c36ad0.jpg",
+    "static/media/slide2.jpg": "./static/media/slide2.21bb0af54436c85f7c15.jpg",
+    "static/media/slide1.jpg": "./static/media/slide1.dcbc610345e8a87f2a0d.jpg",
+    "static/media/slider3.jpg": "./static/media/slider3.50fcf84bb968b28206f4.jpg",
+    "static/media/404.svg": "./static/media/404.04424b10ac8efc11cbd136341adc0bc3.svg",
+    "static/media/era.png": "./static/media/era.f4ab53de6dcd0ee3b932.png",
+    "index.html": "./index.html",
+    "main.84e20158.css.map": "./static/css/main.84e20158.css.map",
+    "main.fe1b1719.js.map": "./static/js/main.fe1b1719.js.map",
+    "787.f587e8d5.chunk.js.map": "./static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84e20158.css",
-    "static/js/main.ee8c61e8.js"
+    "static/js/main.fe1b1719.js"
   ]
 }
